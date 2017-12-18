@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ReviewApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="about">About us</string>
+    <string name="action_sign_in">Login</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="prompt_email"><font size="7">Email</font></string>
+    <string name="action_sign_in_short">Login</string>
+    <string name="prompt_password"><font size="7">Password</font></string>
+
+</resources>
